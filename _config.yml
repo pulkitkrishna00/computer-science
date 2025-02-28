@@ -6,3 +6,6 @@ header_pages:
   - HELP.md
 minima:
   skin: auto
+defaults:
+    values:
+      strip_title: true
