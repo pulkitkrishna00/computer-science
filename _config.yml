@@ -3,3 +3,6 @@ theme: minima
 minima:
   skin: auto
 header_pages:
+  - CURRICULAR_GUIDELINES.md
+  - FAQ.md
+  - HELP.md
