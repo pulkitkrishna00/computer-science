@@ -7,5 +7,7 @@ header_pages:
 minima:
   skin: auto
 defaults:
+  - scope:
+      path: /
     values:
       strip_title: true
