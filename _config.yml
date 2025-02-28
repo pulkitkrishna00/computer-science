@@ -1,7 +1,7 @@
 title: Computer Science
 theme: minima
 minima:
-  skin: auto
+  skin: dark
 header_pages:
   - CURRICULAR_GUIDELINES.md
   - FAQ.md
