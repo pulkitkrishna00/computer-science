@@ -1,1 +1,8 @@
 title: Computer Science
+remote_theme: jekyll/minima
+header_pages:
+  - CURRICULAR_GUIDELINES.md
+  - FAQ.md
+  - HELP.md
+minima:
+  skin: auto
