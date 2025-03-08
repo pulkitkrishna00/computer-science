@@ -1,5 +1,5 @@
 title: Computer Science
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@1e8a445"
 header_pages:
   - CURRICULAR_GUIDELINES.md
   - FAQ.md
