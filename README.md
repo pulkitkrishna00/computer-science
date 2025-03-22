@@ -70,7 +70,7 @@ just remember that you can't purchase success!
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Respect the code of conduct* that you signed in the beginning of each course!
 
-**[How to contribute](CONTRIBUTING.md)**
+**[How to contribute](./CONTRIBUTING.md)**
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
 
